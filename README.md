@@ -3,9 +3,10 @@ ISTQB-certified Quality Assurance Engineer with over 15 years of expertise in ma
 
 A dedicated, reliable, and collaborative team player, I am passionate about mentoring junior team members and driving organizational success. Eager to learn and adapt to dynamic environments, I thrive in navigating transitions and scaling processes for long-term impact.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Skills:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	Java, JavaScript, Python
 •	Selenium, Appium, Playwright
 •	TestNG, Junit
@@ -24,6 +25,7 @@ Skills:
 
 
 Certifications
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 09/2009
 ISTQB certified Tester Foundation Level
 
@@ -33,6 +35,7 @@ Scrum Alliance Certified Scrum Master Valid till: 01/15/27
 
 
 Accomplishments
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •	Designed & executed 5,000+ manual test cases, increasing defect detection.
 •	Developed 1,000+ UI & API automation scripts, reducing regression testing time significantly.
 •	Led 80+ PPQA audits, improving CMMI compliance & reducing defect leakage by 30%.
