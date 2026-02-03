@@ -21,7 +21,7 @@ Skills:
 •	MongoDB, Couchbase, DynamoDB
 •	Jira, Confluence, TestRail
 •	Windows, Linux, MacOS
-<img width="468" height="291" alt="image" src="https://github.com/user-attachments/assets/eb310ab3-1fbd-49b4-882b-c4ef0d0a9c66" />
+
 
 Certifications
 09/2009
@@ -29,7 +29,7 @@ ISTQB certified Tester Foundation Level
 
 07/2021
 Scrum Alliance Certified Scrum Master Valid till: 01/15/27
-<img width="468" height="136" alt="image" src="https://github.com/user-attachments/assets/04ac7bd7-e71c-4d06-a2a9-c30df3b2a175" />
+
 
 
 Accomplishments
@@ -38,4 +38,4 @@ Accomplishments
 •	Led 80+ PPQA audits, improving CMMI compliance & reducing defect leakage by 30%.
 •	Delivered 50+ projects with zero critical defects in production.
 •	Managed & mentored 35+ QA engineers, improving efficiency by 30%.
-<img width="472" height="131" alt="image" src="https://github.com/user-attachments/assets/dc208440-eb99-4d6c-b7ad-6be91182811d" />
+
